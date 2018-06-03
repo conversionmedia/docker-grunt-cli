@@ -1,0 +1,18 @@
+{
+  "name": "cm-theme",
+  "version": "0.0.1",
+  "devDependencies": {
+    "grunt": "*",
+    "grunt-babel": "*",
+    "grunt-browser-sync": "*",
+    "grunt-contrib-concat": "*",
+    "grunt-contrib-copy": "*",
+    "grunt-contrib-uglify": "*",
+    "grunt-contrib-watch": "*",
+    "grunt-postcss": "*",
+    "grunt-sass": "*",
+    "babel-core": "*",
+    "babel-preset-es2015": "*",
+    "autoprefixer": "*"
+  }
+}
